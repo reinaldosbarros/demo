@@ -1,8 +1,5 @@
 {
   "recursos": [
-    { "id": 1, "nome": "Post 1" },
-    { "id": 2, "nome": "Post 2" },
-    { "id": 3, "nome": "Post 3" },
     { "id": 4, "nome": "Reinaldo dos Santos Barros" },
     { "id": 5, "nome": "Carlos Borges" },
     { "id": 6, "nome": "Cezar Merigueti" }
